@@ -1,0 +1,1001 @@
+account_id,industry,company_size,region,lead_source,message_variant,cadence_days,contacted,engaged,meeting,won,final_stage
+A0001,Education,1-50,Southeast,Cold research,B,5,1,1,0,0,Engaged
+A0002,Technology,51-200,West,Event,A,5,1,1,1,0,Meeting
+A0003,Education,1-50,Texas,Inbound form,B,2,1,1,0,0,Engaged
+A0004,Financial Services,1-50,Northeast,Inbound form,B,2,1,0,0,0,Contacted
+A0005,Healthcare,201-1000,West,Cold research,A,5,1,0,0,0,Contacted
+A0006,Retail,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0007,Education,1000+,Southeast,Inbound form,B,2,1,1,0,0,Engaged
+A0008,Education,51-200,Midwest,Inbound form,B,2,1,1,1,0,Meeting
+A0009,Healthcare,201-1000,Texas,Referral,B,2,1,0,0,0,Contacted
+A0010,Manufacturing,51-200,Texas,Referral,B,5,1,1,1,0,Meeting
+A0011,Technology,201-1000,Southeast,Cold research,A,5,1,1,0,0,Engaged
+A0012,Retail,51-200,West,Cold research,B,2,1,0,0,0,Contacted
+A0013,Financial Services,51-200,Midwest,Cold research,B,2,1,1,1,1,Closed won
+A0014,Education,1000+,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0015,Manufacturing,51-200,Southeast,Cold research,A,5,1,1,1,0,Meeting
+A0016,Technology,1-50,Texas,Inbound form,B,2,1,0,0,0,Contacted
+A0017,Manufacturing,201-1000,Southeast,Cold research,B,2,1,1,0,0,Engaged
+A0018,Healthcare,201-1000,Texas,Cold research,B,2,1,1,0,0,Engaged
+A0019,Education,1-50,Texas,Referral,A,2,1,1,1,1,Closed won
+A0020,Financial Services,51-200,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0021,Education,1000+,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0022,Technology,201-1000,Texas,Referral,B,2,1,1,1,1,Closed won
+A0023,Retail,1000+,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0024,Retail,51-200,Southeast,Referral,B,2,1,0,0,0,Contacted
+A0025,Education,201-1000,Northeast,Inbound form,A,2,1,1,1,1,Closed won
+A0026,Healthcare,51-200,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0027,Manufacturing,1000+,Southeast,Inbound form,A,5,1,1,1,0,Meeting
+A0028,Healthcare,51-200,Northeast,Inbound form,B,2,1,1,1,0,Meeting
+A0029,Healthcare,201-1000,Midwest,Inbound form,A,2,1,0,0,0,Contacted
+A0030,Financial Services,51-200,Northeast,Referral,B,5,1,0,0,0,Contacted
+A0031,Education,51-200,Northeast,Referral,B,2,1,1,1,1,Closed won
+A0032,Retail,201-1000,Northeast,Referral,B,5,1,0,0,0,Contacted
+A0033,Technology,51-200,Southeast,Event,B,5,1,1,0,0,Engaged
+A0034,Technology,1000+,Southeast,Cold research,B,2,1,1,1,1,Closed won
+A0035,Manufacturing,51-200,Northeast,Inbound form,B,5,1,0,0,0,Contacted
+A0036,Healthcare,201-1000,Texas,Referral,A,2,1,0,0,0,Contacted
+A0037,Healthcare,51-200,Midwest,Event,A,5,1,1,1,0,Meeting
+A0038,Manufacturing,51-200,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0039,Technology,51-200,Southeast,Cold research,B,2,1,1,1,1,Closed won
+A0040,Financial Services,1-50,Southeast,Referral,B,5,1,1,0,0,Engaged
+A0041,Technology,1-50,Southeast,Referral,B,5,1,0,0,0,Contacted
+A0042,Education,201-1000,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0043,Financial Services,201-1000,Midwest,Cold research,B,5,0,0,0,0,Researched
+A0044,Technology,201-1000,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0045,Education,1-50,Northeast,Referral,B,2,1,0,0,0,Contacted
+A0046,Education,51-200,Texas,Cold research,A,2,1,1,0,0,Engaged
+A0047,Technology,1-50,Northeast,Inbound form,B,2,0,0,0,0,Researched
+A0048,Technology,201-1000,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0049,Financial Services,201-1000,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0050,Healthcare,1-50,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0051,Healthcare,201-1000,Southeast,Referral,B,2,1,1,0,0,Engaged
+A0052,Healthcare,1-50,Southeast,Cold research,A,5,1,1,1,0,Meeting
+A0053,Education,51-200,Midwest,Referral,B,2,1,1,0,0,Engaged
+A0054,Financial Services,1-50,West,Inbound form,A,5,1,1,1,1,Closed won
+A0055,Financial Services,51-200,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0056,Education,201-1000,Southeast,Event,A,5,1,0,0,0,Contacted
+A0057,Manufacturing,1000+,West,Cold research,A,5,1,0,0,0,Contacted
+A0058,Manufacturing,1-50,Northeast,Cold research,B,2,1,1,1,1,Closed won
+A0059,Healthcare,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0060,Healthcare,201-1000,Northeast,Cold research,A,5,1,1,1,0,Meeting
+A0061,Financial Services,1000+,Texas,Referral,A,2,0,0,0,0,Researched
+A0062,Manufacturing,201-1000,Texas,Event,A,5,1,1,1,1,Closed won
+A0063,Manufacturing,51-200,Midwest,Event,B,2,1,1,1,1,Closed won
+A0064,Education,201-1000,Northeast,Referral,A,2,1,1,0,0,Engaged
+A0065,Financial Services,51-200,Midwest,Referral,A,5,1,0,0,0,Contacted
+A0066,Manufacturing,1000+,Southeast,Cold research,A,5,1,1,0,0,Engaged
+A0067,Manufacturing,51-200,West,Cold research,A,2,1,0,0,0,Contacted
+A0068,Technology,201-1000,Northeast,Cold research,A,5,1,1,0,0,Engaged
+A0069,Healthcare,1-50,Midwest,Event,B,5,1,1,0,0,Engaged
+A0070,Technology,51-200,Texas,Inbound form,B,2,1,0,0,0,Contacted
+A0071,Healthcare,201-1000,Texas,Cold research,A,2,1,1,0,0,Engaged
+A0072,Technology,201-1000,Midwest,Referral,B,2,1,1,1,0,Meeting
+A0073,Education,51-200,West,Event,B,5,1,0,0,0,Contacted
+A0074,Technology,1000+,West,Inbound form,A,2,1,0,0,0,Contacted
+A0075,Healthcare,201-1000,Southeast,Referral,B,5,1,1,1,1,Closed won
+A0076,Technology,51-200,Texas,Referral,B,5,1,1,1,0,Meeting
+A0077,Technology,51-200,West,Event,B,5,1,0,0,0,Contacted
+A0078,Financial Services,51-200,Midwest,Inbound form,A,2,1,0,0,0,Contacted
+A0079,Manufacturing,201-1000,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0080,Education,51-200,Midwest,Inbound form,A,5,1,0,0,0,Contacted
+A0081,Financial Services,1-50,West,Cold research,A,5,1,0,0,0,Contacted
+A0082,Technology,1000+,Southeast,Inbound form,B,2,1,1,0,0,Engaged
+A0083,Education,1000+,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0084,Healthcare,201-1000,Midwest,Cold research,B,5,0,0,0,0,Researched
+A0085,Healthcare,1000+,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0086,Healthcare,201-1000,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0087,Financial Services,201-1000,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0088,Manufacturing,201-1000,West,Cold research,A,5,1,1,0,0,Engaged
+A0089,Healthcare,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0090,Manufacturing,51-200,West,Cold research,A,2,1,0,0,0,Contacted
+A0091,Healthcare,1-50,Midwest,Event,B,5,1,1,1,1,Closed won
+A0092,Financial Services,201-1000,Texas,Inbound form,A,2,1,0,0,0,Contacted
+A0093,Manufacturing,51-200,Southeast,Event,A,5,1,0,0,0,Contacted
+A0094,Technology,51-200,Northeast,Cold research,A,2,1,1,0,0,Engaged
+A0095,Technology,51-200,West,Cold research,B,2,1,0,0,0,Contacted
+A0096,Financial Services,51-200,Northeast,Inbound form,B,2,0,0,0,0,Researched
+A0097,Technology,1-50,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0098,Healthcare,201-1000,Texas,Cold research,A,2,1,1,1,0,Meeting
+A0099,Healthcare,201-1000,Midwest,Inbound form,A,2,1,1,1,1,Closed won
+A0100,Retail,1-50,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0101,Retail,1-50,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0102,Financial Services,51-200,West,Event,B,5,1,1,1,0,Meeting
+A0103,Technology,201-1000,Texas,Cold research,B,2,0,0,0,0,Researched
+A0104,Retail,201-1000,Texas,Event,B,5,1,0,0,0,Contacted
+A0105,Education,1-50,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0106,Financial Services,201-1000,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0107,Manufacturing,1-50,Texas,Referral,A,2,1,1,0,0,Engaged
+A0108,Technology,51-200,West,Cold research,B,2,1,0,0,0,Contacted
+A0109,Healthcare,1000+,Northeast,Event,A,5,1,1,1,1,Closed won
+A0110,Retail,1-50,Southeast,Cold research,A,5,0,0,0,0,Researched
+A0111,Manufacturing,1-50,Texas,Inbound form,A,2,1,1,0,0,Engaged
+A0112,Healthcare,51-200,Northeast,Inbound form,B,5,1,0,0,0,Contacted
+A0113,Technology,201-1000,Texas,Cold research,B,2,1,1,1,0,Meeting
+A0114,Manufacturing,1000+,West,Event,A,2,1,0,0,0,Contacted
+A0115,Healthcare,1000+,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0116,Education,1-50,Northeast,Cold research,B,5,1,1,1,0,Meeting
+A0117,Education,1-50,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0118,Financial Services,201-1000,Texas,Inbound form,B,2,1,0,0,0,Contacted
+A0119,Technology,51-200,Southeast,Inbound form,A,2,1,1,1,0,Meeting
+A0120,Financial Services,1000+,Texas,Inbound form,B,5,1,1,1,0,Meeting
+A0121,Manufacturing,201-1000,Midwest,Inbound form,B,2,1,1,0,0,Engaged
+A0122,Financial Services,1-50,West,Inbound form,B,5,1,1,1,0,Meeting
+A0123,Healthcare,201-1000,West,Cold research,B,5,1,0,0,0,Contacted
+A0124,Technology,1-50,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0125,Healthcare,51-200,Midwest,Referral,A,5,1,1,1,1,Closed won
+A0126,Manufacturing,51-200,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0127,Technology,51-200,Texas,Referral,B,2,1,0,0,0,Contacted
+A0128,Healthcare,201-1000,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0129,Healthcare,201-1000,Northeast,Cold research,A,2,1,1,1,1,Closed won
+A0130,Manufacturing,1000+,Northeast,Cold research,B,2,1,1,0,0,Engaged
+A0131,Healthcare,1000+,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0132,Retail,51-200,West,Cold research,B,5,1,1,1,0,Meeting
+A0133,Manufacturing,1-50,Midwest,Inbound form,B,5,1,1,0,0,Engaged
+A0134,Technology,201-1000,Northeast,Referral,B,2,1,1,1,0,Meeting
+A0135,Financial Services,1000+,West,Referral,A,5,1,1,0,0,Engaged
+A0136,Healthcare,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0137,Retail,51-200,West,Cold research,B,5,1,1,1,0,Meeting
+A0138,Manufacturing,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0139,Education,1-50,West,Inbound form,A,5,1,1,0,0,Engaged
+A0140,Healthcare,201-1000,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0141,Manufacturing,51-200,Midwest,Event,A,5,1,1,1,1,Closed won
+A0142,Manufacturing,201-1000,West,Event,B,2,1,0,0,0,Contacted
+A0143,Retail,201-1000,Texas,Referral,B,2,1,0,0,0,Contacted
+A0144,Manufacturing,201-1000,Northeast,Inbound form,A,5,1,1,1,0,Meeting
+A0145,Manufacturing,51-200,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0146,Technology,51-200,Southeast,Inbound form,A,2,0,0,0,0,Researched
+A0147,Technology,201-1000,Northeast,Event,B,5,1,1,1,1,Closed won
+A0148,Manufacturing,201-1000,West,Event,A,2,1,1,1,1,Closed won
+A0149,Technology,51-200,West,Event,A,2,1,1,0,0,Engaged
+A0150,Healthcare,1000+,Southeast,Inbound form,A,2,1,1,1,0,Meeting
+A0151,Education,1-50,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0152,Retail,201-1000,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0153,Healthcare,1-50,West,Inbound form,A,2,1,0,0,0,Contacted
+A0154,Manufacturing,1-50,West,Event,B,5,1,1,0,0,Engaged
+A0155,Healthcare,51-200,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0156,Financial Services,1-50,Texas,Inbound form,A,5,1,1,1,0,Meeting
+A0157,Technology,1-50,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0158,Financial Services,1-50,Southeast,Referral,B,2,1,0,0,0,Contacted
+A0159,Financial Services,51-200,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0160,Education,201-1000,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0161,Healthcare,1-50,Northeast,Inbound form,A,2,1,1,1,1,Closed won
+A0162,Retail,201-1000,Southeast,Cold research,B,2,1,1,0,0,Engaged
+A0163,Technology,201-1000,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0164,Healthcare,1-50,Southeast,Cold research,B,2,1,1,0,0,Engaged
+A0165,Manufacturing,1-50,Midwest,Cold research,B,2,1,1,1,1,Closed won
+A0166,Technology,201-1000,Midwest,Inbound form,A,5,1,0,0,0,Contacted
+A0167,Education,201-1000,Northeast,Inbound form,B,2,1,1,0,0,Engaged
+A0168,Education,51-200,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0169,Technology,201-1000,Northeast,Referral,A,2,1,0,0,0,Contacted
+A0170,Retail,1-50,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0171,Technology,51-200,Southeast,Referral,B,5,1,1,1,0,Meeting
+A0172,Manufacturing,201-1000,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0173,Technology,51-200,Northeast,Cold research,B,2,1,1,1,0,Meeting
+A0174,Retail,201-1000,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0175,Healthcare,51-200,Northeast,Referral,A,2,1,1,0,0,Engaged
+A0176,Healthcare,201-1000,Southeast,Referral,A,5,1,0,0,0,Contacted
+A0177,Technology,51-200,Southeast,Cold research,B,2,1,1,1,1,Closed won
+A0178,Retail,51-200,Midwest,Inbound form,B,2,1,1,0,0,Engaged
+A0179,Retail,1-50,Northeast,Event,A,5,1,0,0,0,Contacted
+A0180,Education,1-50,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0181,Retail,201-1000,Midwest,Inbound form,A,2,1,0,0,0,Contacted
+A0182,Retail,1-50,Southeast,Inbound form,B,2,1,1,0,0,Engaged
+A0183,Manufacturing,1-50,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0184,Technology,1-50,West,Referral,A,5,1,0,0,0,Contacted
+A0185,Education,1-50,Texas,Cold research,A,5,0,0,0,0,Researched
+A0186,Financial Services,201-1000,Northeast,Event,B,5,1,1,1,0,Meeting
+A0187,Technology,51-200,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0188,Healthcare,1000+,Southeast,Event,A,2,1,1,0,0,Engaged
+A0189,Education,1-50,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0190,Technology,201-1000,West,Referral,A,2,1,0,0,0,Contacted
+A0191,Retail,51-200,Northeast,Inbound form,A,2,1,0,0,0,Contacted
+A0192,Technology,51-200,Southeast,Cold research,B,2,1,1,1,1,Closed won
+A0193,Healthcare,201-1000,Midwest,Inbound form,B,2,1,1,0,0,Engaged
+A0194,Education,1000+,Texas,Inbound form,B,5,1,0,0,0,Contacted
+A0195,Healthcare,201-1000,Northeast,Inbound form,B,2,1,0,0,0,Contacted
+A0196,Healthcare,1-50,Northeast,Cold research,B,5,1,1,1,0,Meeting
+A0197,Financial Services,1-50,Northeast,Inbound form,A,2,1,1,1,1,Closed won
+A0198,Retail,201-1000,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0199,Healthcare,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0200,Technology,201-1000,Southeast,Inbound form,A,5,1,1,1,0,Meeting
+A0201,Education,51-200,Midwest,Event,B,2,0,0,0,0,Researched
+A0202,Retail,51-200,Midwest,Referral,A,2,1,1,0,0,Engaged
+A0203,Manufacturing,201-1000,Southeast,Cold research,A,5,1,1,0,0,Engaged
+A0204,Healthcare,201-1000,Texas,Inbound form,A,5,1,0,0,0,Contacted
+A0205,Healthcare,1-50,Southeast,Event,A,2,1,0,0,0,Contacted
+A0206,Technology,1-50,West,Cold research,B,5,1,0,0,0,Contacted
+A0207,Healthcare,201-1000,West,Inbound form,B,2,1,0,0,0,Contacted
+A0208,Financial Services,51-200,West,Cold research,A,2,1,0,0,0,Contacted
+A0209,Healthcare,51-200,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0210,Manufacturing,51-200,Midwest,Referral,B,5,1,1,1,0,Meeting
+A0211,Financial Services,201-1000,Texas,Inbound form,B,5,1,0,0,0,Contacted
+A0212,Manufacturing,201-1000,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0213,Healthcare,51-200,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0214,Education,51-200,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0215,Financial Services,51-200,Midwest,Inbound form,A,2,1,1,0,0,Engaged
+A0216,Financial Services,51-200,West,Cold research,A,5,1,1,0,0,Engaged
+A0217,Healthcare,51-200,Northeast,Referral,B,5,1,0,0,0,Contacted
+A0218,Healthcare,51-200,Southeast,Inbound form,A,5,1,0,0,0,Contacted
+A0219,Retail,201-1000,Northeast,Cold research,A,2,1,1,0,0,Engaged
+A0220,Technology,1-50,Texas,Referral,A,5,1,1,1,0,Meeting
+A0221,Technology,1-50,Texas,Referral,A,2,1,0,0,0,Contacted
+A0222,Manufacturing,1-50,Northeast,Inbound form,B,2,1,1,1,0,Meeting
+A0223,Financial Services,1000+,West,Cold research,A,5,1,1,0,0,Engaged
+A0224,Retail,201-1000,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0225,Technology,1-50,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0226,Retail,1000+,Texas,Event,B,5,1,0,0,0,Contacted
+A0227,Healthcare,51-200,Northeast,Event,A,5,1,0,0,0,Contacted
+A0228,Manufacturing,51-200,Midwest,Cold research,B,5,1,1,1,1,Closed won
+A0229,Financial Services,1000+,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0230,Healthcare,1-50,Texas,Inbound form,B,5,1,1,1,1,Closed won
+A0231,Healthcare,1-50,Texas,Cold research,B,2,1,1,0,0,Engaged
+A0232,Technology,51-200,West,Cold research,B,2,1,0,0,0,Contacted
+A0233,Retail,1-50,Midwest,Referral,A,5,1,0,0,0,Contacted
+A0234,Financial Services,201-1000,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0235,Retail,1-50,Southeast,Cold research,A,2,1,1,1,0,Meeting
+A0236,Education,1-50,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0237,Manufacturing,1-50,West,Cold research,B,5,1,0,0,0,Contacted
+A0238,Education,51-200,Texas,Referral,A,2,1,0,0,0,Contacted
+A0239,Healthcare,1-50,Midwest,Event,A,5,1,0,0,0,Contacted
+A0240,Healthcare,1-50,Southeast,Referral,B,2,1,1,1,1,Closed won
+A0241,Education,201-1000,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0242,Education,51-200,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0243,Technology,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0244,Manufacturing,1-50,Texas,Event,A,5,1,0,0,0,Contacted
+A0245,Financial Services,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0246,Education,51-200,Southeast,Event,A,5,1,1,1,0,Meeting
+A0247,Financial Services,201-1000,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0248,Technology,1-50,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0249,Technology,1000+,West,Cold research,A,2,1,0,0,0,Contacted
+A0250,Technology,1000+,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0251,Financial Services,1-50,Northeast,Cold research,A,5,1,1,1,0,Meeting
+A0252,Education,1-50,Southeast,Event,B,2,1,1,1,1,Closed won
+A0253,Manufacturing,1-50,West,Inbound form,B,2,1,0,0,0,Contacted
+A0254,Technology,201-1000,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0255,Technology,1-50,Southeast,Inbound form,A,5,1,1,1,0,Meeting
+A0256,Education,201-1000,Southeast,Event,B,2,1,0,0,0,Contacted
+A0257,Education,201-1000,Southeast,Inbound form,B,5,1,1,0,0,Engaged
+A0258,Healthcare,201-1000,Texas,Event,B,5,0,0,0,0,Researched
+A0259,Healthcare,51-200,Midwest,Event,A,5,1,1,1,1,Closed won
+A0260,Financial Services,1000+,Texas,Referral,A,5,1,1,1,0,Meeting
+A0261,Healthcare,1-50,Southeast,Event,A,5,1,1,1,1,Closed won
+A0262,Education,51-200,Southeast,Inbound form,A,5,1,0,0,0,Contacted
+A0263,Technology,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0264,Healthcare,1000+,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0265,Retail,51-200,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0266,Healthcare,201-1000,West,Inbound form,B,2,1,1,1,1,Closed won
+A0267,Technology,1-50,Southeast,Cold research,B,2,1,1,0,0,Engaged
+A0268,Healthcare,1000+,West,Event,A,5,1,0,0,0,Contacted
+A0269,Healthcare,51-200,Texas,Inbound form,A,2,1,1,0,0,Engaged
+A0270,Healthcare,51-200,Northeast,Inbound form,B,5,1,0,0,0,Contacted
+A0271,Healthcare,1000+,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0272,Healthcare,51-200,Northeast,Event,A,2,1,0,0,0,Contacted
+A0273,Healthcare,51-200,West,Inbound form,B,2,1,1,1,1,Closed won
+A0274,Financial Services,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0275,Financial Services,1-50,Texas,Event,A,2,1,1,0,0,Engaged
+A0276,Technology,51-200,Midwest,Cold research,A,5,1,1,1,0,Meeting
+A0277,Technology,1-50,Texas,Referral,A,5,1,0,0,0,Contacted
+A0278,Manufacturing,1-50,Midwest,Referral,B,5,1,0,0,0,Contacted
+A0279,Retail,201-1000,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0280,Education,51-200,West,Cold research,B,5,1,1,0,0,Engaged
+A0281,Healthcare,51-200,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0282,Healthcare,51-200,West,Cold research,A,2,0,0,0,0,Researched
+A0283,Technology,51-200,Texas,Referral,B,2,1,1,1,1,Closed won
+A0284,Technology,201-1000,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0285,Manufacturing,1000+,Texas,Cold research,A,5,0,0,0,0,Researched
+A0286,Technology,1000+,Midwest,Event,B,2,1,0,0,0,Contacted
+A0287,Healthcare,51-200,Midwest,Event,B,2,1,0,0,0,Contacted
+A0288,Technology,51-200,West,Referral,A,2,1,0,0,0,Contacted
+A0289,Manufacturing,51-200,Midwest,Inbound form,A,5,1,0,0,0,Contacted
+A0290,Healthcare,51-200,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0291,Education,51-200,Texas,Inbound form,B,2,1,0,0,0,Contacted
+A0292,Healthcare,201-1000,West,Cold research,B,2,1,0,0,0,Contacted
+A0293,Retail,51-200,Northeast,Event,A,2,1,1,0,0,Engaged
+A0294,Healthcare,51-200,Texas,Inbound form,A,2,0,0,0,0,Researched
+A0295,Education,51-200,West,Inbound form,A,2,1,0,0,0,Contacted
+A0296,Retail,51-200,West,Referral,A,5,1,0,0,0,Contacted
+A0297,Retail,1-50,Northeast,Referral,A,5,1,0,0,0,Contacted
+A0298,Education,1-50,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0299,Education,201-1000,Texas,Event,A,2,1,0,0,0,Contacted
+A0300,Financial Services,51-200,Texas,Event,B,2,1,1,1,1,Closed won
+A0301,Education,1-50,Southeast,Inbound form,B,5,1,1,1,1,Closed won
+A0302,Healthcare,51-200,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0303,Manufacturing,201-1000,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0304,Manufacturing,51-200,Texas,Referral,A,5,1,0,0,0,Contacted
+A0305,Education,201-1000,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0306,Manufacturing,1000+,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0307,Technology,51-200,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0308,Financial Services,201-1000,Midwest,Event,A,2,1,0,0,0,Contacted
+A0309,Technology,1-50,West,Cold research,B,5,1,1,1,0,Meeting
+A0310,Healthcare,1000+,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0311,Manufacturing,51-200,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0312,Technology,1000+,West,Inbound form,A,2,1,1,1,0,Meeting
+A0313,Technology,51-200,Southeast,Event,B,2,1,0,0,0,Contacted
+A0314,Technology,1-50,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0315,Technology,1-50,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0316,Technology,201-1000,Southeast,Referral,A,2,1,0,0,0,Contacted
+A0317,Technology,51-200,West,Cold research,B,5,1,1,0,0,Engaged
+A0318,Financial Services,1-50,Northeast,Referral,B,2,1,1,1,0,Meeting
+A0319,Technology,201-1000,West,Cold research,B,2,1,1,1,0,Meeting
+A0320,Retail,201-1000,Texas,Inbound form,A,2,1,1,0,0,Engaged
+A0321,Retail,51-200,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0322,Manufacturing,51-200,Northeast,Event,A,5,1,0,0,0,Contacted
+A0323,Technology,1-50,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0324,Manufacturing,201-1000,Southeast,Inbound form,B,2,1,1,1,1,Closed won
+A0325,Education,51-200,West,Inbound form,A,5,1,1,0,0,Engaged
+A0326,Financial Services,201-1000,Southeast,Event,B,5,1,1,1,1,Closed won
+A0327,Education,51-200,West,Cold research,A,2,1,0,0,0,Contacted
+A0328,Manufacturing,51-200,Northeast,Cold research,B,2,1,1,0,0,Engaged
+A0329,Financial Services,51-200,Texas,Inbound form,A,2,1,1,0,0,Engaged
+A0330,Technology,1-50,West,Event,A,5,1,0,0,0,Contacted
+A0331,Financial Services,201-1000,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0332,Healthcare,51-200,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0333,Financial Services,51-200,West,Cold research,A,5,1,1,1,1,Closed won
+A0334,Education,1000+,West,Inbound form,A,2,1,0,0,0,Contacted
+A0335,Healthcare,1000+,West,Event,A,5,1,0,0,0,Contacted
+A0336,Financial Services,201-1000,Northeast,Referral,A,2,1,1,1,1,Closed won
+A0337,Healthcare,1-50,Midwest,Referral,B,2,1,0,0,0,Contacted
+A0338,Financial Services,51-200,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0339,Healthcare,201-1000,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0340,Retail,51-200,Northeast,Cold research,B,2,1,1,0,0,Engaged
+A0341,Healthcare,1-50,Texas,Event,B,5,1,1,0,0,Engaged
+A0342,Retail,201-1000,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0343,Education,51-200,Northeast,Cold research,B,2,1,1,0,0,Engaged
+A0344,Financial Services,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0345,Education,1000+,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0346,Education,201-1000,Northeast,Referral,A,5,1,0,0,0,Contacted
+A0347,Retail,51-200,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0348,Technology,51-200,Texas,Cold research,A,2,1,1,1,1,Closed won
+A0349,Financial Services,51-200,Midwest,Event,B,5,1,1,1,1,Closed won
+A0350,Healthcare,1-50,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0351,Financial Services,201-1000,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0352,Healthcare,201-1000,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0353,Manufacturing,51-200,Northeast,Inbound form,A,2,1,1,0,0,Engaged
+A0354,Manufacturing,51-200,Northeast,Cold research,A,5,1,1,1,0,Meeting
+A0355,Manufacturing,201-1000,Northeast,Event,B,5,1,1,1,1,Closed won
+A0356,Manufacturing,1-50,West,Inbound form,B,5,1,0,0,0,Contacted
+A0357,Education,51-200,West,Event,A,5,1,0,0,0,Contacted
+A0358,Education,51-200,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0359,Manufacturing,201-1000,Midwest,Event,B,5,1,0,0,0,Contacted
+A0360,Financial Services,1-50,West,Cold research,A,5,1,1,1,0,Meeting
+A0361,Retail,201-1000,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0362,Healthcare,51-200,Midwest,Referral,B,5,1,1,0,0,Engaged
+A0363,Healthcare,201-1000,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0364,Healthcare,1-50,West,Cold research,A,2,1,0,0,0,Contacted
+A0365,Financial Services,51-200,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0366,Technology,51-200,West,Cold research,A,5,1,1,1,0,Meeting
+A0367,Education,1-50,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0368,Financial Services,1-50,Texas,Referral,A,2,1,0,0,0,Contacted
+A0369,Technology,1-50,West,Inbound form,A,2,1,1,0,0,Engaged
+A0370,Retail,51-200,Northeast,Cold research,A,5,1,1,0,0,Engaged
+A0371,Education,1-50,Northeast,Referral,B,5,1,0,0,0,Contacted
+A0372,Technology,1000+,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0373,Technology,51-200,Southeast,Cold research,B,5,1,1,1,1,Closed won
+A0374,Technology,201-1000,West,Cold research,A,2,1,1,1,1,Closed won
+A0375,Healthcare,1000+,Southeast,Cold research,A,5,1,1,1,0,Meeting
+A0376,Healthcare,1-50,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0377,Retail,201-1000,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0378,Technology,201-1000,Southeast,Cold research,B,2,1,1,1,0,Meeting
+A0379,Technology,201-1000,Texas,Referral,A,5,1,0,0,0,Contacted
+A0380,Financial Services,51-200,West,Cold research,A,2,1,1,1,0,Meeting
+A0381,Manufacturing,51-200,West,Cold research,B,2,1,1,1,1,Closed won
+A0382,Retail,1-50,Texas,Cold research,A,2,1,1,0,0,Engaged
+A0383,Education,51-200,Southeast,Referral,A,2,1,0,0,0,Contacted
+A0384,Manufacturing,1000+,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0385,Technology,1000+,Southeast,Referral,B,5,1,1,0,0,Engaged
+A0386,Retail,1-50,Midwest,Cold research,A,5,1,1,0,0,Engaged
+A0387,Financial Services,201-1000,Southeast,Cold research,B,5,1,1,1,1,Closed won
+A0388,Retail,51-200,Texas,Inbound form,B,5,1,1,1,1,Closed won
+A0389,Healthcare,1000+,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0390,Education,1-50,Northeast,Cold research,B,2,0,0,0,0,Researched
+A0391,Financial Services,1000+,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0392,Healthcare,201-1000,West,Inbound form,A,5,1,1,1,0,Meeting
+A0393,Manufacturing,1-50,Texas,Referral,A,5,1,0,0,0,Contacted
+A0394,Financial Services,1-50,Texas,Referral,A,2,1,0,0,0,Contacted
+A0395,Healthcare,201-1000,Northeast,Inbound form,B,2,1,1,1,1,Closed won
+A0396,Manufacturing,1-50,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0397,Education,51-200,Southeast,Inbound form,A,5,1,1,0,0,Engaged
+A0398,Technology,1000+,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0399,Manufacturing,51-200,Texas,Referral,A,5,1,1,0,0,Engaged
+A0400,Manufacturing,51-200,Midwest,Cold research,A,2,1,1,0,0,Engaged
+A0401,Technology,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0402,Retail,1-50,Texas,Inbound form,B,2,1,1,0,0,Engaged
+A0403,Education,1000+,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0404,Healthcare,51-200,West,Inbound form,A,5,1,0,0,0,Contacted
+A0405,Retail,1-50,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0406,Retail,51-200,West,Referral,B,2,1,0,0,0,Contacted
+A0407,Technology,1000+,Southeast,Inbound form,B,2,1,0,0,0,Contacted
+A0408,Education,1-50,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0409,Healthcare,201-1000,Southeast,Inbound form,B,2,1,1,0,0,Engaged
+A0410,Retail,201-1000,Southeast,Referral,A,5,1,1,1,1,Closed won
+A0411,Financial Services,201-1000,Texas,Event,A,5,1,0,0,0,Contacted
+A0412,Financial Services,1000+,Northeast,Cold research,A,5,1,1,0,0,Engaged
+A0413,Healthcare,201-1000,Southeast,Referral,B,2,1,1,1,1,Closed won
+A0414,Retail,1000+,Midwest,Event,A,2,1,1,0,0,Engaged
+A0415,Healthcare,1-50,Northeast,Cold research,A,5,1,1,0,0,Engaged
+A0416,Technology,201-1000,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0417,Healthcare,51-200,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0418,Education,51-200,Texas,Inbound form,A,2,1,0,0,0,Contacted
+A0419,Healthcare,1000+,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0420,Retail,1000+,Texas,Event,B,2,1,1,0,0,Engaged
+A0421,Financial Services,201-1000,Midwest,Inbound form,B,5,1,1,0,0,Engaged
+A0422,Healthcare,51-200,West,Cold research,B,5,1,1,0,0,Engaged
+A0423,Healthcare,51-200,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0424,Healthcare,51-200,Northeast,Event,B,2,1,1,1,0,Meeting
+A0425,Financial Services,51-200,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0426,Education,51-200,West,Referral,B,2,1,1,1,1,Closed won
+A0427,Technology,1-50,Southeast,Event,B,2,1,0,0,0,Contacted
+A0428,Education,1-50,Northeast,Referral,B,2,1,0,0,0,Contacted
+A0429,Healthcare,201-1000,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0430,Education,51-200,West,Event,B,5,1,1,0,0,Engaged
+A0431,Retail,1000+,West,Referral,B,2,1,0,0,0,Contacted
+A0432,Education,201-1000,Texas,Cold research,B,2,1,1,0,0,Engaged
+A0433,Financial Services,1-50,West,Referral,A,2,1,1,0,0,Engaged
+A0434,Education,1-50,Texas,Inbound form,B,5,1,1,0,0,Engaged
+A0435,Healthcare,1-50,Northeast,Event,A,2,1,1,0,0,Engaged
+A0436,Healthcare,1000+,West,Cold research,B,2,1,0,0,0,Contacted
+A0437,Healthcare,1-50,Midwest,Cold research,B,2,1,1,0,0,Engaged
+A0438,Manufacturing,51-200,West,Cold research,B,5,1,1,0,0,Engaged
+A0439,Education,1000+,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0440,Financial Services,1000+,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0441,Education,1-50,Southeast,Inbound form,A,2,1,0,0,0,Contacted
+A0442,Healthcare,1-50,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0443,Financial Services,1-50,Midwest,Inbound form,B,2,1,1,1,0,Meeting
+A0444,Healthcare,1-50,Northeast,Cold research,B,2,0,0,0,0,Researched
+A0445,Technology,1-50,Midwest,Cold research,B,5,1,1,1,0,Meeting
+A0446,Financial Services,51-200,Northeast,Cold research,B,2,1,1,0,0,Engaged
+A0447,Retail,1000+,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0448,Financial Services,51-200,Texas,Event,A,2,1,0,0,0,Contacted
+A0449,Healthcare,201-1000,Northeast,Inbound form,B,5,1,1,0,0,Engaged
+A0450,Financial Services,1-50,West,Inbound form,B,2,1,0,0,0,Contacted
+A0451,Healthcare,201-1000,West,Cold research,B,5,1,1,0,0,Engaged
+A0452,Retail,201-1000,Southeast,Event,B,5,1,1,0,0,Engaged
+A0453,Financial Services,201-1000,Northeast,Cold research,B,5,1,1,1,0,Meeting
+A0454,Healthcare,1000+,Midwest,Inbound form,B,5,0,0,0,0,Researched
+A0455,Healthcare,51-200,Midwest,Referral,B,5,1,1,0,0,Engaged
+A0456,Healthcare,1-50,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0457,Retail,1-50,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0458,Manufacturing,51-200,Texas,Cold research,B,5,1,1,0,0,Engaged
+A0459,Education,1000+,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0460,Financial Services,51-200,Midwest,Inbound form,B,2,1,1,0,0,Engaged
+A0461,Manufacturing,201-1000,Texas,Event,B,5,1,1,1,1,Closed won
+A0462,Healthcare,51-200,Southeast,Inbound form,B,5,1,1,1,1,Closed won
+A0463,Retail,1-50,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0464,Technology,51-200,Midwest,Referral,B,2,1,1,1,0,Meeting
+A0465,Manufacturing,201-1000,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0466,Financial Services,201-1000,Texas,Referral,B,5,1,1,1,0,Meeting
+A0467,Financial Services,51-200,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0468,Retail,1-50,West,Cold research,B,5,1,1,1,0,Meeting
+A0469,Healthcare,201-1000,West,Referral,B,5,1,1,1,1,Closed won
+A0470,Manufacturing,1-50,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0471,Technology,1000+,Northeast,Cold research,B,5,1,1,0,0,Engaged
+A0472,Manufacturing,1-50,West,Event,B,2,1,1,1,1,Closed won
+A0473,Healthcare,1-50,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0474,Healthcare,51-200,Texas,Inbound form,A,2,1,0,0,0,Contacted
+A0475,Technology,51-200,West,Referral,A,5,1,0,0,0,Contacted
+A0476,Technology,51-200,Southeast,Inbound form,B,5,1,1,1,0,Meeting
+A0477,Technology,51-200,West,Event,B,2,1,0,0,0,Contacted
+A0478,Financial Services,1000+,Southeast,Event,B,5,1,1,1,0,Meeting
+A0479,Financial Services,51-200,West,Event,B,5,1,1,0,0,Engaged
+A0480,Technology,51-200,Northeast,Inbound form,A,5,1,0,0,0,Contacted
+A0481,Technology,51-200,Northeast,Referral,B,5,1,1,0,0,Engaged
+A0482,Healthcare,1-50,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0483,Manufacturing,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0484,Technology,1-50,Texas,Referral,A,5,1,1,0,0,Engaged
+A0485,Healthcare,201-1000,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0486,Technology,1-50,Southeast,Cold research,B,2,1,1,0,0,Engaged
+A0487,Manufacturing,1000+,Northeast,Cold research,B,2,1,1,0,0,Engaged
+A0488,Technology,51-200,Southeast,Referral,B,5,1,1,1,0,Meeting
+A0489,Manufacturing,1000+,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0490,Manufacturing,51-200,Southeast,Referral,A,5,1,1,1,0,Meeting
+A0491,Financial Services,1-50,Texas,Event,A,2,1,1,1,0,Meeting
+A0492,Financial Services,201-1000,Texas,Inbound form,B,2,1,0,0,0,Contacted
+A0493,Financial Services,201-1000,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0494,Technology,201-1000,Southeast,Referral,A,5,1,0,0,0,Contacted
+A0495,Education,51-200,Southeast,Referral,B,2,1,1,0,0,Engaged
+A0496,Manufacturing,201-1000,Midwest,Cold research,B,2,1,1,0,0,Engaged
+A0497,Technology,201-1000,Southeast,Event,B,5,1,1,0,0,Engaged
+A0498,Financial Services,201-1000,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0499,Technology,51-200,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0500,Manufacturing,201-1000,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0501,Financial Services,201-1000,Midwest,Inbound form,B,2,1,1,0,0,Engaged
+A0502,Retail,1000+,Northeast,Referral,A,2,1,1,0,0,Engaged
+A0503,Retail,51-200,West,Cold research,B,2,1,0,0,0,Contacted
+A0504,Manufacturing,51-200,Midwest,Event,B,2,1,1,1,1,Closed won
+A0505,Manufacturing,201-1000,Texas,Cold research,B,2,1,1,0,0,Engaged
+A0506,Education,51-200,Southeast,Event,A,2,1,0,0,0,Contacted
+A0507,Technology,201-1000,Southeast,Referral,A,2,1,1,0,0,Engaged
+A0508,Education,51-200,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0509,Manufacturing,1-50,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0510,Healthcare,201-1000,West,Event,A,5,1,0,0,0,Contacted
+A0511,Healthcare,1-50,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0512,Education,1-50,Northeast,Inbound form,A,2,1,0,0,0,Contacted
+A0513,Healthcare,201-1000,Texas,Event,A,5,1,1,1,0,Meeting
+A0514,Technology,201-1000,West,Event,A,2,1,0,0,0,Contacted
+A0515,Technology,1000+,West,Cold research,A,5,1,1,1,1,Closed won
+A0516,Healthcare,51-200,Midwest,Event,A,2,1,1,0,0,Engaged
+A0517,Technology,1-50,Southeast,Inbound form,A,5,1,1,1,0,Meeting
+A0518,Education,1000+,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0519,Healthcare,1-50,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0520,Education,1-50,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0521,Education,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0522,Technology,51-200,Midwest,Event,B,5,1,0,0,0,Contacted
+A0523,Healthcare,1000+,Northeast,Cold research,A,5,1,1,1,0,Meeting
+A0524,Financial Services,201-1000,West,Referral,A,5,1,0,0,0,Contacted
+A0525,Healthcare,201-1000,West,Cold research,A,2,1,0,0,0,Contacted
+A0526,Technology,1-50,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0527,Retail,51-200,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0528,Retail,51-200,Texas,Inbound form,A,5,1,1,1,0,Meeting
+A0529,Education,1-50,Northeast,Referral,B,5,1,0,0,0,Contacted
+A0530,Technology,51-200,Northeast,Cold research,A,5,1,1,0,0,Engaged
+A0531,Financial Services,51-200,Texas,Event,A,5,1,1,1,0,Meeting
+A0532,Financial Services,1-50,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0533,Technology,51-200,Midwest,Cold research,B,2,1,1,1,0,Meeting
+A0534,Financial Services,201-1000,Midwest,Cold research,B,2,1,1,1,1,Closed won
+A0535,Healthcare,1-50,Texas,Inbound form,A,2,1,0,0,0,Contacted
+A0536,Healthcare,51-200,Northeast,Event,A,5,1,0,0,0,Contacted
+A0537,Manufacturing,201-1000,Texas,Referral,A,5,1,0,0,0,Contacted
+A0538,Healthcare,201-1000,Midwest,Cold research,B,5,1,1,0,0,Engaged
+A0539,Healthcare,201-1000,West,Cold research,A,2,1,1,0,0,Engaged
+A0540,Education,51-200,West,Referral,B,5,1,1,0,0,Engaged
+A0541,Retail,201-1000,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0542,Manufacturing,1-50,Midwest,Inbound form,B,5,1,1,1,1,Closed won
+A0543,Education,51-200,West,Event,A,2,1,0,0,0,Contacted
+A0544,Retail,1-50,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0545,Healthcare,51-200,Northeast,Event,A,2,1,1,0,0,Engaged
+A0546,Manufacturing,51-200,Midwest,Inbound form,B,5,0,0,0,0,Researched
+A0547,Technology,1-50,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0548,Healthcare,201-1000,West,Referral,B,5,1,1,1,0,Meeting
+A0549,Education,51-200,Northeast,Inbound form,A,2,1,1,1,0,Meeting
+A0550,Technology,51-200,West,Cold research,B,2,0,0,0,0,Researched
+A0551,Manufacturing,1-50,Texas,Inbound form,A,5,1,0,0,0,Contacted
+A0552,Healthcare,51-200,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0553,Healthcare,51-200,Texas,Referral,A,5,1,0,0,0,Contacted
+A0554,Retail,51-200,Northeast,Event,B,2,1,1,1,0,Meeting
+A0555,Healthcare,1-50,Midwest,Referral,B,5,1,1,1,0,Meeting
+A0556,Technology,201-1000,Southeast,Cold research,A,5,1,1,1,0,Meeting
+A0557,Technology,1000+,Texas,Referral,B,5,1,1,0,0,Engaged
+A0558,Manufacturing,51-200,West,Cold research,B,2,1,0,0,0,Contacted
+A0559,Manufacturing,201-1000,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0560,Manufacturing,201-1000,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0561,Healthcare,1000+,Northeast,Referral,B,5,1,1,1,0,Meeting
+A0562,Technology,201-1000,Northeast,Cold research,A,2,1,1,1,1,Closed won
+A0563,Education,1000+,Texas,Cold research,A,5,1,1,1,0,Meeting
+A0564,Financial Services,1000+,Texas,Inbound form,B,2,1,1,1,0,Meeting
+A0565,Financial Services,201-1000,West,Cold research,A,2,1,1,1,0,Meeting
+A0566,Financial Services,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0567,Education,1-50,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0568,Healthcare,1-50,Midwest,Cold research,A,2,1,1,0,0,Engaged
+A0569,Technology,51-200,Southeast,Event,A,2,1,1,1,1,Closed won
+A0570,Manufacturing,51-200,Southeast,Cold research,B,5,1,1,0,0,Engaged
+A0571,Technology,51-200,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0572,Education,51-200,Texas,Inbound form,B,2,1,1,1,0,Meeting
+A0573,Manufacturing,51-200,Northeast,Inbound form,A,5,1,1,1,1,Closed won
+A0574,Education,201-1000,West,Event,B,5,1,1,1,0,Meeting
+A0575,Education,1-50,Midwest,Inbound form,B,5,0,0,0,0,Researched
+A0576,Manufacturing,1-50,Midwest,Inbound form,A,2,1,0,0,0,Contacted
+A0577,Retail,201-1000,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0578,Manufacturing,201-1000,Texas,Referral,A,5,1,1,0,0,Engaged
+A0579,Education,1000+,Southeast,Referral,B,5,1,1,1,0,Meeting
+A0580,Technology,201-1000,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0581,Manufacturing,1000+,Texas,Cold research,A,2,1,1,0,0,Engaged
+A0582,Manufacturing,51-200,West,Cold research,A,2,1,1,0,0,Engaged
+A0583,Healthcare,51-200,Texas,Event,B,2,1,1,0,0,Engaged
+A0584,Technology,51-200,Midwest,Event,A,2,1,1,1,0,Meeting
+A0585,Retail,201-1000,Northeast,Event,A,2,1,1,0,0,Engaged
+A0586,Financial Services,1000+,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0587,Healthcare,51-200,Southeast,Cold research,B,5,1,1,0,0,Engaged
+A0588,Technology,51-200,Southeast,Cold research,A,5,1,1,1,1,Closed won
+A0589,Healthcare,51-200,Midwest,Referral,A,5,1,1,1,1,Closed won
+A0590,Healthcare,1-50,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0591,Retail,1-50,Midwest,Inbound form,A,2,1,1,1,1,Closed won
+A0592,Manufacturing,1-50,Texas,Inbound form,B,2,1,1,0,0,Engaged
+A0593,Technology,1000+,Texas,Inbound form,B,2,1,0,0,0,Contacted
+A0594,Financial Services,51-200,Midwest,Inbound form,B,2,1,1,0,0,Engaged
+A0595,Healthcare,201-1000,Midwest,Cold research,A,2,0,0,0,0,Researched
+A0596,Technology,201-1000,Texas,Cold research,B,5,1,1,1,0,Meeting
+A0597,Financial Services,1-50,West,Cold research,B,5,1,1,0,0,Engaged
+A0598,Financial Services,1-50,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0599,Retail,201-1000,West,Cold research,A,2,1,0,0,0,Contacted
+A0600,Financial Services,51-200,Midwest,Cold research,A,5,1,1,1,0,Meeting
+A0601,Manufacturing,1000+,West,Inbound form,A,5,1,0,0,0,Contacted
+A0602,Education,1-50,West,Cold research,A,2,1,1,1,1,Closed won
+A0603,Retail,201-1000,Southeast,Inbound form,A,2,1,0,0,0,Contacted
+A0604,Financial Services,201-1000,Midwest,Event,A,5,1,0,0,0,Contacted
+A0605,Retail,1-50,Southeast,Referral,A,2,1,1,1,0,Meeting
+A0606,Education,51-200,Northeast,Event,A,5,1,0,0,0,Contacted
+A0607,Education,1000+,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0608,Healthcare,51-200,Northeast,Referral,A,2,1,1,1,0,Meeting
+A0609,Financial Services,51-200,West,Cold research,A,5,1,1,1,0,Meeting
+A0610,Manufacturing,51-200,Northeast,Inbound form,A,2,1,0,0,0,Contacted
+A0611,Manufacturing,51-200,Texas,Cold research,A,2,1,1,0,0,Engaged
+A0612,Financial Services,201-1000,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0613,Retail,201-1000,Midwest,Event,A,2,1,1,0,0,Engaged
+A0614,Retail,51-200,Northeast,Event,B,5,1,0,0,0,Contacted
+A0615,Technology,201-1000,Northeast,Cold research,B,2,1,1,0,0,Engaged
+A0616,Financial Services,1-50,Northeast,Referral,B,2,1,0,0,0,Contacted
+A0617,Education,1-50,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0618,Technology,51-200,Northeast,Event,B,5,1,1,0,0,Engaged
+A0619,Healthcare,1000+,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0620,Healthcare,1-50,West,Cold research,B,5,1,1,0,0,Engaged
+A0621,Education,1-50,Midwest,Cold research,B,2,1,1,1,0,Meeting
+A0622,Manufacturing,51-200,West,Cold research,B,5,1,1,1,0,Meeting
+A0623,Retail,201-1000,West,Cold research,B,5,1,0,0,0,Contacted
+A0624,Manufacturing,1-50,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0625,Retail,51-200,Southeast,Cold research,B,2,1,1,1,0,Meeting
+A0626,Technology,201-1000,Southeast,Cold research,B,2,1,1,0,0,Engaged
+A0627,Education,51-200,Texas,Referral,A,5,1,1,1,1,Closed won
+A0628,Healthcare,1-50,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0629,Manufacturing,1-50,Midwest,Event,B,2,1,0,0,0,Contacted
+A0630,Education,51-200,Southeast,Inbound form,A,2,0,0,0,0,Researched
+A0631,Retail,51-200,Texas,Cold research,A,2,1,1,0,0,Engaged
+A0632,Education,201-1000,Southeast,Inbound form,A,5,1,0,0,0,Contacted
+A0633,Healthcare,201-1000,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0634,Technology,201-1000,Texas,Cold research,A,5,1,1,1,0,Meeting
+A0635,Healthcare,1000+,Texas,Event,A,5,1,1,1,1,Closed won
+A0636,Healthcare,51-200,Midwest,Event,A,5,1,1,0,0,Engaged
+A0637,Financial Services,51-200,West,Inbound form,A,2,1,0,0,0,Contacted
+A0638,Financial Services,1000+,Northeast,Cold research,B,5,1,1,1,1,Closed won
+A0639,Education,1-50,Midwest,Event,B,5,1,1,0,0,Engaged
+A0640,Education,201-1000,West,Cold research,B,2,1,0,0,0,Contacted
+A0641,Financial Services,201-1000,West,Cold research,B,5,1,1,1,1,Closed won
+A0642,Education,1-50,Texas,Cold research,B,5,1,1,0,0,Engaged
+A0643,Healthcare,51-200,West,Inbound form,A,5,1,1,0,0,Engaged
+A0644,Technology,1-50,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0645,Financial Services,1-50,Texas,Inbound form,A,2,1,0,0,0,Contacted
+A0646,Education,51-200,Northeast,Referral,B,5,1,0,0,0,Contacted
+A0647,Healthcare,51-200,Midwest,Event,B,5,1,0,0,0,Contacted
+A0648,Manufacturing,201-1000,Texas,Event,A,2,1,1,0,0,Engaged
+A0649,Financial Services,1000+,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0650,Healthcare,201-1000,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0651,Technology,51-200,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0652,Retail,51-200,West,Referral,B,5,1,0,0,0,Contacted
+A0653,Financial Services,51-200,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0654,Technology,1-50,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0655,Education,1000+,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0656,Technology,51-200,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0657,Education,1-50,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0658,Technology,201-1000,Northeast,Cold research,B,5,1,1,0,0,Engaged
+A0659,Financial Services,51-200,Northeast,Inbound form,B,2,1,1,1,1,Closed won
+A0660,Technology,1-50,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0661,Technology,1-50,West,Inbound form,B,5,0,0,0,0,Researched
+A0662,Retail,201-1000,Northeast,Inbound form,A,2,1,0,0,0,Contacted
+A0663,Healthcare,201-1000,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0664,Healthcare,1-50,Southeast,Event,B,5,1,0,0,0,Contacted
+A0665,Technology,1000+,Southeast,Referral,B,2,1,0,0,0,Contacted
+A0666,Financial Services,201-1000,West,Event,A,2,1,0,0,0,Contacted
+A0667,Education,201-1000,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0668,Retail,1-50,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0669,Technology,1-50,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0670,Technology,201-1000,Northeast,Referral,A,5,1,0,0,0,Contacted
+A0671,Healthcare,51-200,Texas,Inbound form,A,5,1,0,0,0,Contacted
+A0672,Manufacturing,201-1000,Midwest,Event,A,2,1,1,0,0,Engaged
+A0673,Retail,201-1000,Southeast,Event,B,2,1,1,0,0,Engaged
+A0674,Financial Services,1-50,West,Inbound form,B,2,1,1,0,0,Engaged
+A0675,Financial Services,201-1000,West,Event,B,5,1,1,1,1,Closed won
+A0676,Technology,1000+,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0677,Retail,201-1000,Northeast,Inbound form,B,5,1,0,0,0,Contacted
+A0678,Manufacturing,51-200,Northeast,Cold research,B,5,1,1,0,0,Engaged
+A0679,Healthcare,201-1000,Midwest,Cold research,A,5,1,1,0,0,Engaged
+A0680,Technology,51-200,Texas,Referral,A,5,1,1,1,1,Closed won
+A0681,Healthcare,201-1000,Southeast,Inbound form,A,5,1,1,1,1,Closed won
+A0682,Healthcare,201-1000,Texas,Cold research,B,2,1,1,1,0,Meeting
+A0683,Healthcare,201-1000,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0684,Manufacturing,51-200,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0685,Financial Services,1-50,Northeast,Cold research,B,5,1,1,1,0,Meeting
+A0686,Technology,1-50,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0687,Technology,51-200,West,Event,A,2,1,0,0,0,Contacted
+A0688,Retail,51-200,Southeast,Inbound form,B,2,1,1,1,1,Closed won
+A0689,Education,51-200,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0690,Manufacturing,51-200,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0691,Technology,201-1000,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0692,Retail,1000+,Texas,Cold research,B,5,1,1,1,0,Meeting
+A0693,Technology,1-50,West,Referral,A,5,1,1,0,0,Engaged
+A0694,Technology,201-1000,West,Event,B,5,1,1,1,0,Meeting
+A0695,Retail,201-1000,Midwest,Referral,B,2,1,1,0,0,Engaged
+A0696,Manufacturing,51-200,West,Cold research,B,5,0,0,0,0,Researched
+A0697,Education,1-50,Texas,Referral,B,5,1,0,0,0,Contacted
+A0698,Financial Services,201-1000,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0699,Financial Services,1000+,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0700,Technology,201-1000,Texas,Inbound form,A,5,1,0,0,0,Contacted
+A0701,Technology,1000+,West,Event,B,5,1,0,0,0,Contacted
+A0702,Technology,1000+,Texas,Inbound form,A,2,1,1,1,0,Meeting
+A0703,Healthcare,51-200,Northeast,Inbound form,B,5,1,1,1,1,Closed won
+A0704,Retail,201-1000,West,Referral,A,2,1,1,0,0,Engaged
+A0705,Technology,51-200,Midwest,Inbound form,B,5,1,1,1,1,Closed won
+A0706,Manufacturing,1000+,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0707,Education,1-50,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0708,Education,51-200,Northeast,Cold research,A,2,1,1,1,1,Closed won
+A0709,Technology,201-1000,Midwest,Cold research,A,2,1,1,1,0,Meeting
+A0710,Manufacturing,51-200,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0711,Retail,201-1000,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0712,Financial Services,51-200,Midwest,Event,A,5,1,0,0,0,Contacted
+A0713,Education,1000+,West,Event,A,5,0,0,0,0,Researched
+A0714,Retail,1000+,Northeast,Referral,B,5,1,0,0,0,Contacted
+A0715,Education,51-200,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0716,Healthcare,201-1000,Northeast,Event,A,2,1,1,1,1,Closed won
+A0717,Manufacturing,51-200,West,Cold research,B,5,1,0,0,0,Contacted
+A0718,Healthcare,201-1000,West,Cold research,B,2,1,0,0,0,Contacted
+A0719,Financial Services,201-1000,Northeast,Cold research,A,5,1,1,1,0,Meeting
+A0720,Retail,201-1000,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0721,Manufacturing,1-50,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0722,Technology,1-50,West,Inbound form,A,2,1,1,1,0,Meeting
+A0723,Healthcare,201-1000,West,Event,B,5,1,1,1,1,Closed won
+A0724,Retail,51-200,Texas,Event,A,5,1,1,1,0,Meeting
+A0725,Healthcare,51-200,Southeast,Cold research,B,5,1,1,0,0,Engaged
+A0726,Healthcare,1-50,Northeast,Inbound form,B,5,1,1,1,1,Closed won
+A0727,Technology,51-200,Texas,Event,A,5,1,1,1,0,Meeting
+A0728,Healthcare,201-1000,West,Cold research,A,5,1,1,1,1,Closed won
+A0729,Manufacturing,1-50,Texas,Referral,A,5,1,0,0,0,Contacted
+A0730,Manufacturing,51-200,Midwest,Cold research,B,5,1,0,0,0,Contacted
+A0731,Technology,1000+,West,Cold research,B,5,1,0,0,0,Contacted
+A0732,Healthcare,1-50,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0733,Healthcare,201-1000,Midwest,Referral,A,2,1,0,0,0,Contacted
+A0734,Technology,51-200,Southeast,Cold research,B,2,1,1,1,0,Meeting
+A0735,Healthcare,201-1000,West,Cold research,A,5,1,1,0,0,Engaged
+A0736,Financial Services,201-1000,Northeast,Cold research,A,5,1,1,0,0,Engaged
+A0737,Healthcare,1000+,Texas,Inbound form,A,2,1,1,1,0,Meeting
+A0738,Technology,1-50,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0739,Technology,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0740,Technology,201-1000,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0741,Healthcare,1-50,Southeast,Inbound form,A,2,1,0,0,0,Contacted
+A0742,Healthcare,1-50,Northeast,Referral,A,2,1,1,1,0,Meeting
+A0743,Education,1-50,Northeast,Inbound form,B,5,1,1,0,0,Engaged
+A0744,Healthcare,1000+,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0745,Manufacturing,201-1000,Midwest,Cold research,A,2,1,1,0,0,Engaged
+A0746,Manufacturing,201-1000,Southeast,Referral,A,5,1,1,0,0,Engaged
+A0747,Technology,201-1000,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0748,Technology,51-200,Southeast,Inbound form,A,2,1,0,0,0,Contacted
+A0749,Education,51-200,West,Inbound form,B,5,1,0,0,0,Contacted
+A0750,Education,51-200,Southeast,Cold research,B,5,1,1,0,0,Engaged
+A0751,Technology,201-1000,Texas,Inbound form,B,2,1,0,0,0,Contacted
+A0752,Technology,1-50,Texas,Referral,A,2,1,1,1,1,Closed won
+A0753,Technology,1000+,West,Cold research,A,2,1,0,0,0,Contacted
+A0754,Manufacturing,201-1000,West,Cold research,A,5,1,0,0,0,Contacted
+A0755,Financial Services,51-200,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0756,Technology,51-200,Midwest,Inbound form,B,2,1,0,0,0,Contacted
+A0757,Technology,1-50,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0758,Retail,1000+,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0759,Healthcare,1000+,Northeast,Referral,B,2,1,1,0,0,Engaged
+A0760,Manufacturing,1000+,Midwest,Cold research,A,2,1,1,1,0,Meeting
+A0761,Financial Services,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0762,Healthcare,1-50,West,Event,B,5,1,1,0,0,Engaged
+A0763,Healthcare,1-50,Texas,Cold research,B,5,1,1,0,0,Engaged
+A0764,Healthcare,1-50,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0765,Retail,1-50,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0766,Healthcare,1-50,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0767,Healthcare,1000+,Northeast,Cold research,B,2,1,1,1,0,Meeting
+A0768,Healthcare,1-50,Texas,Event,A,2,1,0,0,0,Contacted
+A0769,Healthcare,1-50,Texas,Inbound form,A,2,1,1,0,0,Engaged
+A0770,Financial Services,201-1000,Texas,Cold research,B,5,1,1,1,1,Closed won
+A0771,Technology,51-200,Southeast,Inbound form,A,5,0,0,0,0,Researched
+A0772,Manufacturing,201-1000,Midwest,Referral,A,5,1,1,0,0,Engaged
+A0773,Financial Services,201-1000,Texas,Referral,B,5,1,1,1,0,Meeting
+A0774,Education,1000+,West,Event,B,2,1,1,1,0,Meeting
+A0775,Healthcare,201-1000,Southeast,Event,A,5,1,1,0,0,Engaged
+A0776,Education,51-200,Texas,Inbound form,B,2,1,0,0,0,Contacted
+A0777,Financial Services,201-1000,Southeast,Cold research,B,5,1,1,1,0,Meeting
+A0778,Healthcare,51-200,Midwest,Referral,B,5,1,1,1,0,Meeting
+A0779,Education,51-200,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0780,Education,51-200,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0781,Technology,1-50,West,Event,B,5,0,0,0,0,Researched
+A0782,Retail,201-1000,Northeast,Cold research,A,2,1,1,1,0,Meeting
+A0783,Manufacturing,51-200,Southeast,Cold research,B,2,0,0,0,0,Researched
+A0784,Financial Services,1-50,Midwest,Cold research,B,5,1,1,1,0,Meeting
+A0785,Retail,1-50,West,Cold research,A,2,1,0,0,0,Contacted
+A0786,Technology,201-1000,Southeast,Referral,B,5,1,1,0,0,Engaged
+A0787,Education,51-200,Northeast,Referral,B,2,1,1,0,0,Engaged
+A0788,Technology,201-1000,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0789,Education,201-1000,Southeast,Cold research,B,2,1,1,0,0,Engaged
+A0790,Financial Services,1-50,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0791,Healthcare,201-1000,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0792,Technology,51-200,West,Event,B,2,1,0,0,0,Contacted
+A0793,Technology,1-50,West,Referral,B,5,1,0,0,0,Contacted
+A0794,Healthcare,201-1000,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0795,Healthcare,1000+,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0796,Technology,51-200,Texas,Inbound form,A,5,1,0,0,0,Contacted
+A0797,Healthcare,51-200,Northeast,Event,B,2,0,0,0,0,Researched
+A0798,Healthcare,51-200,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0799,Financial Services,51-200,Southeast,Cold research,B,5,1,1,0,0,Engaged
+A0800,Financial Services,201-1000,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0801,Financial Services,201-1000,Midwest,Inbound form,A,5,1,1,1,0,Meeting
+A0802,Technology,201-1000,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0803,Retail,1-50,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0804,Financial Services,201-1000,Midwest,Inbound form,B,5,1,1,1,1,Closed won
+A0805,Healthcare,201-1000,Midwest,Event,B,5,1,0,0,0,Contacted
+A0806,Healthcare,201-1000,Midwest,Cold research,B,2,1,1,1,1,Closed won
+A0807,Financial Services,1-50,Northeast,Cold research,A,5,0,0,0,0,Researched
+A0808,Healthcare,51-200,West,Cold research,B,2,1,0,0,0,Contacted
+A0809,Manufacturing,51-200,Southeast,Referral,A,5,1,1,1,1,Closed won
+A0810,Retail,1-50,West,Cold research,A,2,1,0,0,0,Contacted
+A0811,Healthcare,1-50,Southeast,Inbound form,B,5,1,1,1,0,Meeting
+A0812,Healthcare,51-200,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0813,Retail,201-1000,Northeast,Referral,A,5,1,0,0,0,Contacted
+A0814,Manufacturing,1-50,Northeast,Referral,B,5,1,1,0,0,Engaged
+A0815,Healthcare,201-1000,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0816,Retail,51-200,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0817,Retail,201-1000,West,Event,B,2,1,1,0,0,Engaged
+A0818,Manufacturing,51-200,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0819,Financial Services,51-200,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0820,Technology,201-1000,West,Cold research,B,2,1,0,0,0,Contacted
+A0821,Healthcare,1000+,Northeast,Cold research,A,2,1,1,1,1,Closed won
+A0822,Financial Services,51-200,Midwest,Cold research,B,2,1,1,1,0,Meeting
+A0823,Technology,51-200,West,Event,A,5,1,0,0,0,Contacted
+A0824,Financial Services,201-1000,West,Inbound form,A,2,1,1,0,0,Engaged
+A0825,Education,201-1000,Northeast,Referral,B,5,1,1,0,0,Engaged
+A0826,Healthcare,1-50,Northeast,Inbound form,B,5,1,1,1,1,Closed won
+A0827,Financial Services,51-200,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0828,Technology,51-200,Northeast,Inbound form,A,2,1,1,1,0,Meeting
+A0829,Retail,1000+,West,Referral,B,5,1,1,1,0,Meeting
+A0830,Technology,51-200,Northeast,Cold research,A,2,1,1,1,0,Meeting
+A0831,Financial Services,51-200,Southeast,Inbound form,A,5,1,1,1,1,Closed won
+A0832,Manufacturing,1000+,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0833,Technology,51-200,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0834,Financial Services,1-50,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0835,Financial Services,1-50,West,Cold research,B,5,1,0,0,0,Contacted
+A0836,Manufacturing,1-50,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0837,Education,1-50,Texas,Referral,A,2,1,1,0,0,Engaged
+A0838,Retail,51-200,Texas,Inbound form,B,2,1,1,1,1,Closed won
+A0839,Technology,201-1000,West,Cold research,B,5,1,1,1,1,Closed won
+A0840,Manufacturing,201-1000,West,Referral,A,5,1,0,0,0,Contacted
+A0841,Healthcare,1-50,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0842,Education,51-200,Texas,Inbound form,A,2,1,0,0,0,Contacted
+A0843,Manufacturing,1-50,Texas,Cold research,B,5,1,0,0,0,Contacted
+A0844,Technology,1000+,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0845,Healthcare,1-50,Midwest,Referral,A,5,1,1,1,0,Meeting
+A0846,Retail,201-1000,Midwest,Event,A,5,1,0,0,0,Contacted
+A0847,Technology,51-200,West,Event,A,2,1,0,0,0,Contacted
+A0848,Financial Services,201-1000,Texas,Referral,B,2,1,0,0,0,Contacted
+A0849,Healthcare,51-200,Texas,Event,A,2,1,1,1,1,Closed won
+A0850,Retail,201-1000,West,Cold research,A,5,1,0,0,0,Contacted
+A0851,Healthcare,1-50,West,Cold research,A,2,1,0,0,0,Contacted
+A0852,Healthcare,1000+,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0853,Education,51-200,Texas,Cold research,A,5,1,0,0,0,Contacted
+A0854,Retail,201-1000,Texas,Cold research,B,2,1,0,0,0,Contacted
+A0855,Healthcare,201-1000,Texas,Cold research,B,5,1,1,1,0,Meeting
+A0856,Manufacturing,1000+,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0857,Financial Services,1-50,West,Referral,A,2,1,1,0,0,Engaged
+A0858,Retail,51-200,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0859,Technology,51-200,Southeast,Event,A,2,1,1,1,0,Meeting
+A0860,Manufacturing,51-200,Midwest,Event,B,2,1,1,0,0,Engaged
+A0861,Education,51-200,Texas,Cold research,B,5,1,1,0,0,Engaged
+A0862,Financial Services,1000+,West,Cold research,B,2,1,0,0,0,Contacted
+A0863,Education,1000+,West,Referral,B,5,1,0,0,0,Contacted
+A0864,Manufacturing,51-200,Midwest,Referral,B,5,1,1,0,0,Engaged
+A0865,Healthcare,201-1000,West,Cold research,A,5,1,0,0,0,Contacted
+A0866,Retail,201-1000,Northeast,Cold research,B,5,0,0,0,0,Researched
+A0867,Education,1000+,Northeast,Event,B,2,1,1,1,1,Closed won
+A0868,Education,1-50,Southeast,Referral,A,2,1,1,0,0,Engaged
+A0869,Healthcare,51-200,West,Cold research,B,5,1,0,0,0,Contacted
+A0870,Healthcare,201-1000,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0871,Education,51-200,Texas,Inbound form,A,2,1,0,0,0,Contacted
+A0872,Healthcare,51-200,West,Cold research,A,5,0,0,0,0,Researched
+A0873,Retail,1000+,Texas,Inbound form,A,5,1,0,0,0,Contacted
+A0874,Technology,1000+,Northeast,Cold research,A,5,1,0,0,0,Contacted
+A0875,Financial Services,1000+,Texas,Referral,A,2,1,1,0,0,Engaged
+A0876,Retail,201-1000,Midwest,Cold research,B,2,1,1,1,0,Meeting
+A0877,Technology,51-200,Northeast,Cold research,A,2,1,1,1,0,Meeting
+A0878,Technology,51-200,Northeast,Inbound form,A,2,1,0,0,0,Contacted
+A0879,Financial Services,51-200,Midwest,Cold research,B,2,1,1,1,1,Closed won
+A0880,Manufacturing,51-200,Midwest,Inbound form,A,2,1,1,1,1,Closed won
+A0881,Technology,51-200,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0882,Financial Services,201-1000,West,Inbound form,A,2,1,0,0,0,Contacted
+A0883,Retail,51-200,Northeast,Inbound form,B,2,1,0,0,0,Contacted
+A0884,Manufacturing,201-1000,Texas,Referral,A,2,1,0,0,0,Contacted
+A0885,Healthcare,51-200,Texas,Cold research,B,2,1,1,1,1,Closed won
+A0886,Technology,51-200,Southeast,Event,A,5,1,0,0,0,Contacted
+A0887,Technology,1-50,Midwest,Referral,A,5,1,1,0,0,Engaged
+A0888,Healthcare,1-50,Northeast,Inbound form,B,5,1,1,1,0,Meeting
+A0889,Healthcare,201-1000,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0890,Financial Services,51-200,Northeast,Cold research,A,2,1,1,1,0,Meeting
+A0891,Technology,1-50,West,Cold research,A,5,1,1,1,0,Meeting
+A0892,Retail,201-1000,Northeast,Event,B,2,1,0,0,0,Contacted
+A0893,Technology,51-200,Texas,Inbound form,A,5,0,0,0,0,Researched
+A0894,Healthcare,1-50,Texas,Cold research,A,2,1,1,0,0,Engaged
+A0895,Education,51-200,Northeast,Event,B,2,1,0,0,0,Contacted
+A0896,Retail,1-50,Northeast,Inbound form,A,2,1,0,0,0,Contacted
+A0897,Technology,201-1000,West,Cold research,B,2,1,0,0,0,Contacted
+A0898,Healthcare,51-200,Northeast,Cold research,B,5,1,1,1,0,Meeting
+A0899,Healthcare,1-50,Midwest,Event,B,5,1,0,0,0,Contacted
+A0900,Manufacturing,1-50,Northeast,Referral,A,2,1,0,0,0,Contacted
+A0901,Manufacturing,51-200,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0902,Technology,1-50,Midwest,Inbound form,A,5,1,1,1,1,Closed won
+A0903,Healthcare,201-1000,Midwest,Referral,A,5,1,1,1,0,Meeting
+A0904,Manufacturing,1-50,Midwest,Inbound form,B,5,1,0,0,0,Contacted
+A0905,Retail,201-1000,Texas,Inbound form,B,5,1,1,1,0,Meeting
+A0906,Financial Services,51-200,Midwest,Inbound form,B,5,1,0,0,0,Contacted
+A0907,Manufacturing,51-200,Southeast,Referral,B,5,1,0,0,0,Contacted
+A0908,Healthcare,1-50,Midwest,Cold research,B,5,1,1,0,0,Engaged
+A0909,Technology,201-1000,Midwest,Referral,A,2,1,1,1,0,Meeting
+A0910,Technology,1000+,Midwest,Cold research,A,5,1,1,1,0,Meeting
+A0911,Education,1-50,West,Event,A,2,1,1,0,0,Engaged
+A0912,Retail,1-50,Northeast,Cold research,B,2,1,0,0,0,Contacted
+A0913,Retail,1000+,Texas,Referral,A,5,1,0,0,0,Contacted
+A0914,Retail,51-200,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0915,Retail,1-50,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0916,Retail,1-50,Texas,Cold research,B,5,1,1,0,0,Engaged
+A0917,Healthcare,201-1000,Texas,Referral,B,2,1,1,1,0,Meeting
+A0918,Healthcare,201-1000,Southeast,Event,A,2,0,0,0,0,Researched
+A0919,Technology,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0920,Manufacturing,1000+,Northeast,Inbound form,A,5,1,0,0,0,Contacted
+A0921,Healthcare,51-200,West,Inbound form,A,5,1,1,1,1,Closed won
+A0922,Education,51-200,West,Cold research,A,2,1,0,0,0,Contacted
+A0923,Financial Services,51-200,Northeast,Event,B,5,1,0,0,0,Contacted
+A0924,Manufacturing,51-200,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A0925,Healthcare,1-50,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0926,Technology,1-50,Texas,Referral,B,2,1,1,1,0,Meeting
+A0927,Healthcare,51-200,Southeast,Cold research,B,2,0,0,0,0,Researched
+A0928,Education,201-1000,Northeast,Inbound form,A,5,1,1,1,1,Closed won
+A0929,Manufacturing,1-50,Texas,Inbound form,B,5,1,1,0,0,Engaged
+A0930,Financial Services,51-200,Southeast,Inbound form,A,2,1,1,0,0,Engaged
+A0931,Technology,201-1000,Texas,Referral,A,5,1,1,0,0,Engaged
+A0932,Technology,201-1000,Midwest,Referral,A,2,1,1,0,0,Engaged
+A0933,Technology,201-1000,West,Inbound form,A,5,1,1,0,0,Engaged
+A0934,Education,201-1000,West,Cold research,A,2,1,0,0,0,Contacted
+A0935,Education,201-1000,Southeast,Cold research,B,2,1,0,0,0,Contacted
+A0936,Healthcare,1-50,Northeast,Referral,A,5,1,1,1,0,Meeting
+A0937,Retail,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0938,Healthcare,201-1000,Northeast,Cold research,A,5,1,1,1,0,Meeting
+A0939,Retail,1-50,Southeast,Cold research,A,5,1,0,0,0,Contacted
+A0940,Healthcare,1-50,Southeast,Referral,A,2,1,1,0,0,Engaged
+A0941,Technology,1-50,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0942,Education,51-200,Northeast,Cold research,B,5,1,0,0,0,Contacted
+A0943,Healthcare,51-200,West,Cold research,B,5,1,0,0,0,Contacted
+A0944,Technology,1-50,West,Cold research,A,2,1,0,0,0,Contacted
+A0945,Manufacturing,201-1000,Texas,Inbound form,B,2,0,0,0,0,Researched
+A0946,Technology,1000+,Midwest,Cold research,B,5,1,1,0,0,Engaged
+A0947,Financial Services,1-50,Southeast,Event,B,2,1,0,0,0,Contacted
+A0948,Education,1000+,Northeast,Event,A,2,1,0,0,0,Contacted
+A0949,Retail,1-50,Southeast,Cold research,B,5,1,0,0,0,Contacted
+A0950,Technology,1000+,Southeast,Inbound form,A,2,1,0,0,0,Contacted
+A0951,Manufacturing,1000+,Southeast,Event,B,2,1,1,1,0,Meeting
+A0952,Technology,1-50,Texas,Referral,A,5,1,1,1,1,Closed won
+A0953,Technology,201-1000,Midwest,Cold research,B,2,1,1,1,1,Closed won
+A0954,Healthcare,1000+,Texas,Cold research,A,5,1,1,0,0,Engaged
+A0955,Retail,1000+,Southeast,Inbound form,B,5,1,0,0,0,Contacted
+A0956,Retail,1000+,Texas,Event,A,2,1,0,0,0,Contacted
+A0957,Education,51-200,Texas,Inbound form,B,5,1,1,0,0,Engaged
+A0958,Manufacturing,1-50,Southeast,Inbound form,A,5,1,0,0,0,Contacted
+A0959,Manufacturing,201-1000,West,Cold research,B,2,1,0,0,0,Contacted
+A0960,Manufacturing,201-1000,West,Event,B,5,1,0,0,0,Contacted
+A0961,Manufacturing,201-1000,Southeast,Cold research,A,2,1,1,0,0,Engaged
+A0962,Technology,51-200,Northeast,Event,A,2,1,0,0,0,Contacted
+A0963,Healthcare,51-200,West,Cold research,B,5,1,0,0,0,Contacted
+A0964,Healthcare,1-50,Southeast,Cold research,A,5,1,1,0,0,Engaged
+A0965,Retail,201-1000,West,Event,A,5,1,0,0,0,Contacted
+A0966,Manufacturing,1-50,Texas,Event,B,5,1,0,0,0,Contacted
+A0967,Retail,201-1000,Southeast,Referral,A,5,1,1,1,1,Closed won
+A0968,Healthcare,201-1000,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0969,Manufacturing,51-200,Texas,Cold research,A,2,1,0,0,0,Contacted
+A0970,Healthcare,51-200,West,Inbound form,A,5,1,0,0,0,Contacted
+A0971,Technology,51-200,West,Cold research,A,5,1,0,0,0,Contacted
+A0972,Healthcare,1000+,Southeast,Cold research,A,2,1,0,0,0,Contacted
+A0973,Healthcare,201-1000,West,Referral,A,2,1,0,0,0,Contacted
+A0974,Retail,51-200,Midwest,Cold research,A,5,1,0,0,0,Contacted
+A0975,Technology,1-50,West,Referral,A,2,1,1,1,1,Closed won
+A0976,Financial Services,1-50,West,Cold research,A,2,1,1,0,0,Engaged
+A0977,Manufacturing,51-200,Northeast,Inbound form,A,5,1,0,0,0,Contacted
+A0978,Technology,1000+,Texas,Inbound form,B,2,1,1,1,1,Closed won
+A0979,Manufacturing,201-1000,West,Inbound form,A,5,1,1,1,1,Closed won
+A0980,Healthcare,1-50,Midwest,Referral,B,5,0,0,0,0,Researched
+A0981,Retail,201-1000,West,Cold research,B,5,1,0,0,0,Contacted
+A0982,Education,51-200,West,Event,B,5,1,1,0,0,Engaged
+A0983,Education,201-1000,Texas,Inbound form,B,5,1,0,0,0,Contacted
+A0984,Manufacturing,1-50,Northeast,Referral,A,5,1,0,0,0,Contacted
+A0985,Healthcare,201-1000,Texas,Event,B,2,1,0,0,0,Contacted
+A0986,Retail,1000+,Texas,Event,A,5,1,0,0,0,Contacted
+A0987,Technology,51-200,West,Event,B,5,1,1,1,0,Meeting
+A0988,Healthcare,201-1000,West,Event,A,2,1,0,0,0,Contacted
+A0989,Technology,1000+,West,Cold research,A,2,1,1,1,0,Meeting
+A0990,Education,1-50,West,Cold research,A,2,1,0,0,0,Contacted
+A0991,Financial Services,1-50,Midwest,Referral,A,2,1,1,0,0,Engaged
+A0992,Education,201-1000,Northeast,Cold research,A,2,1,0,0,0,Contacted
+A0993,Education,51-200,West,Inbound form,B,5,1,0,0,0,Contacted
+A0994,Healthcare,1-50,Northeast,Referral,A,2,1,1,1,0,Meeting
+A0995,Retail,51-200,Midwest,Cold research,B,2,1,0,0,0,Contacted
+A0996,Technology,201-1000,Southeast,Inbound form,A,2,1,1,0,0,Engaged
+A0997,Financial Services,51-200,Midwest,Event,B,2,0,0,0,0,Researched
+A0998,Healthcare,51-200,West,Event,A,5,1,1,1,0,Meeting
+A0999,Retail,201-1000,Midwest,Cold research,A,2,1,0,0,0,Contacted
+A1000,Technology,51-200,Northeast,Inbound form,A,5,1,1,1,1,Closed won
